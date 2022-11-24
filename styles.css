@@ -15,3 +15,8 @@ header {
 footer {
     font-size: 20px;
 }
+
+section {
+    border-color: #000;
+    font-size: 20px;
+}
